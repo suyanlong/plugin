@@ -2,7 +2,7 @@ package version
 
 //var version control
 var (
-	Version   = "master"
+	Version   = "6.1.1"
 	GitCommit string
 	BuildTime string
 )

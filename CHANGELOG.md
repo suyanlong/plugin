@@ -1,5 +1,14 @@
 changelog
 
+<a name="6.1.1"></a>
+## [6.1.1](https://github.com/suyanlong/plugin/compare/v6.1.0...v6.1.1) (2021-10-22)
+
+
+### Bug Fixes
+
+* adjust semantic-release commit message conventions to jshint ([a0eade8](https://github.com/suyanlong/plugin/commit/a0eade8))
+* Fixed semantic-release-replace-plugin config ([9c1f171](https://github.com/suyanlong/plugin/commit/9c1f171))
+
 ## [1.65.3](https://github.com/33cn/plugin/compare/v1.65.2...v1.65.3) (2021-10-19)
 
 
