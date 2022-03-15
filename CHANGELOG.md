@@ -1,5 +1,21 @@
 changelog
 
+<a name="6.2.0"></a>
+# [6.2.0](https://github.com/suyanlong/plugin/compare/v6.1.0...v6.2.0) (2022-03-15)
+
+
+### Bug Fixes
+
+* adjust semantic-release commit message conventions to jshint ([a0eade8](https://github.com/suyanlong/plugin/commit/a0eade8))
+* chain33 update to 1.66.2 ([3cdb80c](https://github.com/suyanlong/plugin/commit/3cdb80c))
+* Fixed semantic-release-replace-plugin config ([6c79cfd](https://github.com/suyanlong/plugin/commit/6c79cfd))
+* sync chain33 patch version v1.66.3 ([691168d](https://github.com/suyanlong/plugin/commit/691168d))
+* update chain33 ([d0526e5](https://github.com/suyanlong/plugin/commit/d0526e5))
+
+### Features
+
+* release 1.66 ([b94376e](https://github.com/suyanlong/plugin/commit/b94376e))
+
 <a name="1.66.3"></a>
 ## [1.66.3](https://github.com/33cn/plugin/compare/v1.66.2...v1.66.3) (2022-02-18)
 
